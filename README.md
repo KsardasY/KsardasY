@@ -17,6 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KsardasY&show_icons=true&theme=outrun&title_color=03ffff&icon_color=03ffff&text_color=ffffff&border_radius=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### 🔥Subscriber activity🔥
 ![](https://komarev.com/ghpvc/?username=KsardasY&style=for-the-badge&color=0C0C36&textColor=03ffff)
+![](https://img.shields.io/github/followers/KsardasY?label=Followers&style=for-the-badge&color=0C0C36&textColor=03ffff)
 ### 📫How to reach me📫
 [![mail](https://img.shields.io/badge/--160145?style=for-the-badge&logo=mail.ru&logoColor=03ffff)](mailto://KsardasY@yandex.ru)
 [![tg](https://img.shields.io/badge/--160145?style=for-the-badge&logo=telegram&logoColor=03ffff)](https://t.me/KsardasY)
