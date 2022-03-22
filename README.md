@@ -7,7 +7,7 @@
 ### ❄My skills❄
 [![Python](https://img.shields.io/badge/-Python-160145?style=for-the-badge&logo=Python&logoColor=03ffff)](https://github.com/KsardasY/COLE-KNIGHT)
 [![Jupyter](https://img.shields.io/badge/-jupyter%20notebook-160145?style=for-the-badge&logo=Jupyter&logoColor=03ffff)](https://github.com/KsardasY/Selection/tree/main/lyceumpp/final%20stage)
-[![SQL](https://img.shields.io/badge/-SQL-160145?style=for-the-badge&logo=mysql&logoColor=03ffff)](https://sqlitestudio.pl/)
+[![SQL](https://img.shields.io/badge/-SQL-160145?style=for-the-badge&logo=mysql&logoColor=03ffff)](https://github.com/KsardasY/Think-analytics/tree/main/SQL)
 [![C](https://img.shields.io/badge/--160145?style=for-the-badge&logo=C&logoColor=03ffff)](https://github.com/KsardasY/BMSTU-programming/tree/main/Top%20algorithms)
 [![C++](https://img.shields.io/badge/-с++-160145?style=for-the-badge&logo=C%2b%2b&logoColor=03ffff)](https://github.com/KsardasY/BMSTU-programming/tree/main/Top%20algorithms)
 ### 📉My stats📈
