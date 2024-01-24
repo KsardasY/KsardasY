@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on getting an internship
 - 🧲 I’m currently intrested in DS and ML
-- ⌚ I'm 19 y.o.
+- ⌚ I'm 20 y.o.
 ### ❄My skills❄
 [![Python](https://img.shields.io/badge/-Python-160145?style=for-the-badge&logo=Python&logoColor=03ffff)](https://github.com/xrtz/INFO-SARATOV)
 [![SQL](https://img.shields.io/badge/-SQL-160145?style=for-the-badge&logo=SQLite&logoColor=03ffff)](https://github.com/KsardasY/Selection/tree/main/Think-analytics)
